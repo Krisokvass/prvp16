@@ -12,7 +12,8 @@ header {
     text-align: center;
 }
 .logo {
-    height: 50px; /* установить высоту логотипа */
+    width: 10px;  /* Ширина изображения */
+    height: auto;
 }
 nav ul {
     list-style: none;
