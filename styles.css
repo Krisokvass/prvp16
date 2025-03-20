@@ -11,9 +11,10 @@ header {
     padding: 10px 0;
     text-align: center;
 }
-logo {
-    width: 50px;  /* Ширина изображения */
-    height: auto;
+.logo {
+    width: 100px; 
+    height: auto; 
+    margin-right: 100px;
 }
 nav ul {
     list-style: none;
