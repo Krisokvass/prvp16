@@ -11,7 +11,7 @@ header {
     padding: 10px 0;
     text-align: center;
 }
-.logo {
+logo {
     width: 50px;  /* Ширина изображения */
     height: auto;
 }
